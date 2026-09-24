@@ -25,9 +25,6 @@ I worked on:
 
 ![Map](screenshots/map.png)
 
-![Stack](screenshots/stack.png)
-
-
 ## Key Features
 
 - 📍 GPS location tracking
@@ -43,17 +40,7 @@ I worked on:
 
 The overall system was designed around the following flow:
 
-GPS Tracking Device  
-↓  
-LoRa Communication  
-↓  
-LoRa Gateway  
-↓  
-Cloud Server  
-↓  
-Tracking Website / Map  
-↓  
-Guardian
+![Architecture](screenshots/systemarc.png)
 
 The project documentation describes the tracking device sending location data through the LoRa gateway to cloud services, where the location could be accessed through a website. The system also included geo-fencing and emergency alerts.
 
