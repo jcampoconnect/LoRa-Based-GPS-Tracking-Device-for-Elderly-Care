@@ -55,7 +55,8 @@ The project documentation describes the tracking device sending location data th
 - IoT
 - Microcontroller
 - Cloud Services
-- InofThings
+- The Things Network
+- Ubidots
 - Location Mapping
 - Geo-fencing
 
