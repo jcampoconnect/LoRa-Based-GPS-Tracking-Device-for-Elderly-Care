@@ -4,11 +4,11 @@
 
 This project presents an assistive GPS tracking system designed to help caregivers monitor elderly individuals living with dementia or Alzheimer's who may be at risk of wandering or becoming disoriented.
 
-The system combines GPS, LoRa wireless communication, IoT technology, cloud services, and a web-based tracking interface to provide caregivers with access to the user's location. A tracking device can be worn by an individual or attached to a wheelchair or walker, allowing location data to be collected and transmitted through a LoRa gateway to a cloud-based service.
+The system combines GPS, LoRa wireless communication, IoT technology, cloud services, and a web based tracking interface to provide caregivers with access to the user's location. A tracking device can be worn by an individual or attached to a wheelchair or walker, allowing location data to be collected and transmitted through a LoRa gateway to a cloud based service.
 
-The collected location data is then made available through a tracking website, where caregivers can monitor the individual's location and interact with the tracking system. The project also incorporates geo-fencing functionality to define a designated safe area and generate alerts when the tracked individual moves beyond the defined boundary. An emergency button provides an additional safety mechanism, allowing the individual to trigger an alert and transmit their location to the caregiver.
+The collected location data is then made available through a tracking website, where caregivers can monitor the individual's location and interact with the tracking system. The project also incorporates geo fencing functionality to define a designated safe area and generate alerts when the tracked individual moves beyond the defined boundary. An emergency button provides an additional safety mechanism, allowing the individual to trigger an alert and transmit their location to the caregiver.
 
-The combination of GPS tracking, long-range low-power LoRa communication, IoT configuration, location mapping, geo-fencing, and emergency alerts demonstrates how connected technologies can be integrated into an assistive monitoring system for elder care environments such as retirement homes.
+The combination of GPS tracking, long range low power LoRa communication, IoT configuration, location mapping, geo fencing, and emergency alerts demonstrates how connected technologies can be integrated into an assistive monitoring system for elder care environments such as retirement homes.
 
 The project was developed as a team technical project, with my primary contributions focused on software development, IoT configuration, GPS tracking functionality, and the implementation of the tracking map using Ubidots + The Things Network.
 
