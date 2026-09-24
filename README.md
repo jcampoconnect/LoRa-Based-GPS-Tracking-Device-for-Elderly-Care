@@ -63,7 +63,7 @@ The project documentation describes the tracking device sending location data th
 
 A demonstration of the project was presented during the Tech Fair.
 
-🎥 **[Watch the Project Demonstration](YOUR_VIDEO_LINK)**
+🎥 **[Watch the Project Demonstration](https://www.acadiate.com/ee/SETAS/Electronics_Projects?view=std&showcase=2123084856)**
 
 ## Project Documentation
 
