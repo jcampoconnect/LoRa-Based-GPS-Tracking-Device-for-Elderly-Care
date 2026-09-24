@@ -23,6 +23,11 @@ I worked on:
 - Tracking map functionality using "The Things Network"
 - Integration of the tracking functionality with the user-facing interface
 
+![Map](screenshots/map.png)
+
+![Stack](screenshots/stack.png)
+
+
 ## Key Features
 
 - 📍 GPS location tracking
