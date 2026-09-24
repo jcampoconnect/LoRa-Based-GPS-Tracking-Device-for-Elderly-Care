@@ -55,6 +55,8 @@ The project documentation describes the tracking device sending location data th
 - Location Mapping
 - Geo-fencing
 
+![Components](screenshots/sysover.png)
+
 ## Project Demonstration
 
 A demonstration of the project was presented during the Tech Fair.
