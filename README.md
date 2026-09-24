@@ -7,6 +7,7 @@ A team project developed at Centennial College focused on designing an assistive
 The system was designed to allow caregivers to monitor an elderly person's location through a tracking device, LoRa communication, cloud services, and a user-facing tracking interface.
 
 The project included GPS location tracking, geo-fencing, emergency alerts, and location visualization.
+
 ![Project Overview](screenshots/mainplan.png)
 
 ## My Contribution
